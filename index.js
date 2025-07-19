@@ -270,6 +270,8 @@ client.on('interactionCreate', async (interaction) => {
   }
 });
 
+client.login(TOKEN);
+
 const rest = new REST({ version: '10' }).setToken(TOKEN);
 (async () => {
   try {
