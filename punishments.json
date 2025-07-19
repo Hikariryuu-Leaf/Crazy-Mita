@@ -1,0 +1,55 @@
+{
+  "987654321098765432": [
+    {
+      "type": "warn",
+      "duration": "N/A",
+      "reason": "No reason provided.",
+      "moderator": "Reikaria#1111",
+      "timestamp": 1751976811888
+    },
+    {
+      "type": "warn",
+      "duration": "7 day(s)",
+      "reason": "(@1 week take break)KindMita5820 - 1.3e",
+      "moderator": "KindMita5820#2222",
+      "timestamp": 1752926491888
+    },
+    {
+      "type": "warn",
+      "duration": "2 day(s)",
+      "reason": "@HikariAnya - 1.1b",
+      "moderator": "HikariAnya#3333",
+      "timestamp": 1752840811888
+    }
+  ],
+  "954778717467594812": [
+    {
+      "type": "warn",
+      "duration": "N/A",
+      "reason": "wtf",
+      "moderator": "hikaryuu_20889",
+      "timestamp": 1752927397036
+    },
+    {
+      "type": "warn",
+      "duration": "N/A",
+      "reason": "test",
+      "moderator": "hikaryuu_20889",
+      "timestamp": 1752927703110
+    },
+    {
+      "type": "warn",
+      "duration": "N/A",
+      "reason": "gry",
+      "moderator": "hikaryuu_20889",
+      "timestamp": 1752927750422
+    },
+    {
+      "type": "kick",
+      "duration": "N/A",
+      "reason": "pfp",
+      "moderator": "hikaryuu_20889",
+      "timestamp": 1752927782148
+    }
+  ]
+}
